@@ -9,9 +9,17 @@ Here’s a snapshot of what you’ll find in my repos:
 - 🚀 **Projects with a Purpose**: Code that solves real-world problems.
 - 🚀 **Design APIs**: Build robust and intuitive APIs that bridge front-end interfaces with databases.
 
+---
+
+### 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=radical)
+
+---
+
 ## 💌 Let’s Connect!  
 I’m always excited to chat with recruiters, tech enthusiasts, and fellow developers. Whether you want to discuss opportunities, geek out about tech, or just say hi, you can:  
 - Check out my repos right here on GitHub.  
 - Connect with me on [LinkedIn](#).  
-- Drop me an email at [aymen.alsuhaiqi@gmail.com](aymen.alsuhaiqi@gmail.com).  
+- Drop me an email at [aymen.alsuhaiqi@gmail.com](aymen.alsuhaiqi@gmail.com).
+  
  
