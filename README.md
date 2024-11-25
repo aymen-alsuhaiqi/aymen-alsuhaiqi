@@ -12,7 +12,7 @@ Here’s a snapshot of what you’ll find in my repos:
 ---
 
 ### 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymen-alsuhaiqi&show_icons=true&theme=radical)
 
 ---
 
