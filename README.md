@@ -12,6 +12,6 @@ Here’s a snapshot of what you’ll find in my repos:
 ## 💌 Let’s Connect!  
 I’m always excited to chat with recruiters, tech enthusiasts, and fellow developers. Whether you want to discuss opportunities, geek out about tech, or just say hi, you can:  
 - Check out my repos right here on GitHub.  
-- ![Uploading LinkedinGIF.gif…]() Connect with me on [LinkedIn](#).  
+- Connect with me on [LinkedIn](#).  
 - Drop me an email at [aymen.alsuhaiqi@gmail.com](aymen.alsuhaiqi@gmail.com).  
  
