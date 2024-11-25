@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Universe!  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&gradientColors=6a0dad,9370db) 
 
-Hi there! I’m **Aymen Alsuhaiqi**, a passionate **backend developer** with a knack for turning big ideas into scalable, secure, and seamless digital solutions.  
+Hi there! I’m **Aymen Alsuhaiqi**, a passionate **Backend developer** with a knack for turning big ideas into scalable, secure, and seamless digital solutions.  
  
 ## 🔭 Highlights  
 Here’s a snapshot of what you’ll find in my repos:  
