@@ -23,3 +23,13 @@ I’m always excited to chat with recruiters, tech enthusiasts, and fellow devel
 - Drop me an email at [aymen.alsuhaiqi@gmail.com](aymen.alsuhaiqi@gmail.com).
   
  
+<br>
+<br>
+
+<p align="center"> 
+  Visitor count <br><br>
+  <img src="https://profile-counter.glitch.me/aymen-alsuhaiqi/count.svg" />
+</p>
+<img width=100% src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1ECCFF&section=footer"/> 
